@@ -1,0 +1,6 @@
+C:\Users\Fabián Maroto\source\repos\SistemaFITUNED\FITUNED\bin\Debug\FITUNED.dll
+C:\Users\Fabián Maroto\source\repos\SistemaFITUNED\FITUNED\bin\Debug\FITUNED.pdb
+C:\Users\Fabián Maroto\source\repos\SistemaFITUNED\FITUNED\obj\Debug\FITUNED.csproj.AssemblyReference.cache
+C:\Users\Fabián Maroto\source\repos\SistemaFITUNED\FITUNED\obj\Debug\FITUNED.csproj.CoreCompileInputs.cache
+C:\Users\Fabián Maroto\source\repos\SistemaFITUNED\FITUNED\obj\Debug\FITUNED.dll
+C:\Users\Fabián Maroto\source\repos\SistemaFITUNED\FITUNED\obj\Debug\FITUNED.pdb
